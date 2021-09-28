@@ -1,3 +1,4 @@
+'use strict';
 //Find lat long corners when given the center
 function getSquareCorners(latLongCenter, SQsqAcres){
 
